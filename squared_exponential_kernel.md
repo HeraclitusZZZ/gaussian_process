@@ -4,3 +4,4 @@
 
 
 
+![This is an image](./sek.svg)
